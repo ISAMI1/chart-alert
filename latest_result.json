@@ -1,1 +1,7 @@
-{"run_at": "2000-01-01 00:00", "data_date": null, "watchlist_count": 0, "signals": [], "errors": ["初期ファイル（まだ判定が実行されていません）"]}
+{
+ "run_at": "2026-10-26 22:37",
+ "data_date": "2026-10-26",
+ "watchlist_count": 10,
+ "signals": [],
+ "errors": []
+}
